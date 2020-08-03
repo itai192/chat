@@ -1,0 +1,7 @@
+C:\Users\itail\Documents\CompSci\Chat\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\itail\Documents\CompSci\Chat\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\itail\Documents\CompSci\Chat\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\itail\Documents\CompSci\Chat\Chat\Chat\obj\Debug\Chat server.csprojAssemblyReference.cache
+C:\Users\itail\Documents\CompSci\Chat\Chat\Chat\obj\Debug\Chat server.csproj.CoreCompileInputs.cache
+C:\Users\itail\Documents\CompSci\Chat\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\itail\Documents\CompSci\Chat\Chat\Chat\obj\Debug\Chat.pdb
