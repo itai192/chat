@@ -6,6 +6,7 @@ using System.Net.Sockets;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Chat_Client
 {
@@ -13,6 +14,7 @@ namespace Chat_Client
     {
         public static void StartClient()
         {
+            Process.Start("chrome.exe", "https://www.youtube.com/watch?v=dQw4w9WgXcQ");
             const int port = 25565;
             IPAddress hostip = IPAddress.Parse("46.120.2.20");
             IPEndPoint hostEnd = new IPEndPoint(hostip, port);
