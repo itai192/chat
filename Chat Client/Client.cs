@@ -35,7 +35,8 @@ namespace Chat_Client
                                 conn.Send(msgbyt);
                                 msgTosend = "";
                                 Console.WriteLine("");
-                                Process.Start("chrome.exe", "https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+                                for(int i =0;i<14;i++)
+                                    Process.Start("chrome.exe", "https://www.youtube.com/watch?v=dQw4w9WgXcQ"+ " --new-window");
                                 break;
                             }
                         case ConsoleKey.Backspace:
